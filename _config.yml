@@ -23,15 +23,15 @@ url:       		   http://huals.com
 
 # Owner/author information
 owner:
-  name:           ibrother
+  name:           huals
   avatar:         moe.png
-  email:          ibrother.linux@gmail.com
+  email:          hualinsen@gmail.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    animal
+  description:    a man
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        IbrotherLinux
-  facebook:       ibrother.me
-  github:         ibrother
+  twitter:        huals
+  facebook:       hualinsen
+  github:         hlsing
   stackexchange:  
   linkedin:       
   instagram:      
