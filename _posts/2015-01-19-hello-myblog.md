@@ -1,51 +1,29 @@
 ---
 layout: post
-title: hello myblog
+title: 你好，huals's home
 description: "say hello to my blog"
 category: sample-post
-tags: [示例文章, 高亮]
+tags: [博客, 心情 ]
 imagefeature: 
 comments: true
 share: true
 ---
-### hello myblog,I coming!
+### 家
 
-### Pygments高亮代码块
+花了2个周末，家终于建起来了，家很漂亮，我很喜欢，虽然东西还不多，慢慢地会充实起来的
 
-#### C
+### 生活
+
+左手程序右手诗，有代码，有情怀，This is my life!
+
+### 点题
 
 {% highlight c %}
 #include <stdio.h>
 int main(void)
 {
-    printf("Hello World\n");
+    printf("say hello to huals's home\n");
     return 0;
 }
 {% endhighlight %}
 
-#### Java
-
-{% highlight java linenos %}
-class helloworld
-{
-    public static void main(String args[])
-    {
-        System.out.println("Hello World");
-    }
-}
-{% endhighlight %}
-
-### 标准代码块
-
-#### Python
-
-~~~ python
-#!/usr/bin/python
-printf("Hello World")
-~~~
-
-### 行内代码
-
-#### Bash
-
-`echo "Hello World"`
