@@ -7,10 +7,10 @@ image:
   feature: 
 ---
 <figure>
-  <img src="{{ site.url }}/images/moe.png" alt="ibrother">
-  <figcaption>ibrother</figcaption>
+  <img src="{{ site.url }}/images/moe.png" alt="huals">
+  <figcaption>huals</figcaption>
 </figure>
 
 <div class="alert alert-success" role="alert">
-    在这里加入你的介绍
+    程序员一枚
 </div>

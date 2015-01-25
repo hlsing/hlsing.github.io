@@ -2,7 +2,7 @@
 layout: post
 title: 你好，huals's home
 description: "say hello to my blog"
-category: sample-post
+category: 生活
 tags: [博客, 心情 ]
 imagefeature: 
 comments: true
