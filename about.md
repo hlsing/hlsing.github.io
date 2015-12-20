@@ -7,10 +7,10 @@ image:
   feature: 
 ---
 <figure>
-  <img src="{{ site.url }}/images/moe.png" alt="huals">
+  <img src="{{ site.url }}/images/huals.jpg" alt="huals">
   <figcaption>huals</figcaption>
 </figure>
 
 <div class="alert alert-success" role="alert">
-    程序员一枚,大男孩一枝,此处省略1000个赞
+    好大一个程序猿，恍恍惚惚红红火火哈哈哈哈
 </div>
