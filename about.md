@@ -12,5 +12,5 @@ image:
 </figure>
 
 <div class="alert alert-success" role="alert">
-    好大一个程序猿，恍恍惚惚红红火火哈哈哈哈
+    活捉一枚程序猿，恍恍惚惚红红火火哈哈哈哈
 </div>
