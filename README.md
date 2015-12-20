@@ -37,8 +37,6 @@ HMFAYSAL OMEGA 是一个最小化，很漂亮并且有着响应式设计的Jekyl
 * 给搜索引擎使用的Sitemap
 * 由一位电子工程师设计
 
-想看到所有列出的特性, 访问 [这个链接](http://blog.ibrother.me/jekyll-omega-theme/)
-
 ![screenshot of HMFAYSAL OMEGA Theme](https://raw.github.com/hmfaysal/hmfaysal-omega-theme/gh-pages/images/hmfaysal-omega-preview.jpg)
 
 ## 最快部署
@@ -323,8 +321,8 @@ HMFAYSAL-OMEGA-THEME
 
 ## 有问题?
 
-使用主题遇到问题或者想知道设置一些东西，如果你是汉子，可以联系原作者[@hmfaysal](http://twitter.com/hmfaysal)，或者使用[Issue](https://github.com/ibrother/jekyll-omega-theme/issues/new)
-如果你是萌妹子，我只想说：请联系我 <ibrother.linux@gmail.com>
+使用主题遇到问题或者想知道设置一些东西，可以联系原作者[@hmfaysal](http://twitter.com/hmfaysal)，或者我这份上一个修改者<ibrother.linux@gmail.com>
+当然也可以联系我 <huals@foxmail.com>
 
 ---
 
